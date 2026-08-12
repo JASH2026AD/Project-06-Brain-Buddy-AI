@@ -1,4 +1,4 @@
-# AI Cole Companion
+# AI College Companion
 
 Flutter foundation for an offline-first college planner and Gemini-powered study companion.
 
